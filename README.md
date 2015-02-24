@@ -4,7 +4,7 @@ socialInbox
 semester Project
 
 Team Members:
-Krishna
-Satwick
-Ravi
-Sandeep
+Krishna Yavasani
+Satwick Devalaraju
+Ravi Salluru
+Sandeep Saripalli
